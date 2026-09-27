@@ -44,3 +44,11 @@ body {
     font-size: 40px;
     margin-bottom: 20px;
 }
+
+pre {
+    font-family: "Shoes";
+    font-size: 20px;
+    line-height: 1;
+    margin: 0;
+	padding-left: 20px;
+}
